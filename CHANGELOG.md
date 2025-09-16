@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.1.9 (2025-09-16)
+
+
+### Features
+
+* add support for deleting txn by nonce ([1e3d530](https://github.com/metachain-org/safesmith/commit/1e3d530fd3d037da6eba15de63987a4970c2c78e))
+* change interface directive to @ and drop safe command to simplify runs ([40de49d](https://github.com/metachain-org/safesmith/commit/40de49dcb0aad99930d033837906625c36002fb4))
+* change project to safesmith ([603ac01](https://github.com/metachain-org/safesmith/commit/603ac011c9bc4622c7ee5ca1447354c41d5f8c51))
+* improve parsing and settings config ([47fa0a7](https://github.com/metachain-org/safesmith/commit/47fa0a72a1c946585510d594a3edc09af64e869f))
+* improved proxy handling ([02f0a25](https://github.com/metachain-org/safesmith/commit/02f0a25ae305de6a573fb70bb7e81e1ec12aaece))
+* readme edits and 0.1.4 release ([c8e4b48](https://github.com/metachain-org/safesmith/commit/c8e4b4881ded180e1abbce5dfcc7b4a04b8173bf))
+* support merging abis for proxy and implementation ([ab62147](https://github.com/metachain-org/safesmith/commit/ab6214791f9bfaa389ca1f30a6e1f75e59708b46))
+* update README.md ([78836e5](https://github.com/metachain-org/safesmith/commit/78836e58730e806e902b0f715a67226cc06a216d))
+* uvx for builds ([87e375b](https://github.com/metachain-org/safesmith/commit/87e375bcd2dc44ed5139bebaba7dc2a24d53df5e))
+
+
+### Bug Fixes
+
+* add release workflow ([831963d](https://github.com/metachain-org/safesmith/commit/831963db407894c1925f4f316f843a364e5c35f8))
+* add release workflow ([fdeecd4](https://github.com/metachain-org/safesmith/commit/fdeecd40c8b1e3386b41d3a25b95e324c0aa265c))
+* add release workflow ([02d8576](https://github.com/metachain-org/safesmith/commit/02d8576b8216362313338688a2492bac3843a8a4))
+* add safesmith init ([6b5949e](https://github.com/metachain-org/safesmith/commit/6b5949e7069011141d86b3a616ab36d20a9039da))
+* changelog ([2ad8e8d](https://github.com/metachain-org/safesmith/commit/2ad8e8d772bb1ac82e3702c7d5737e5de780fcf0))
+
+
+### Miscellaneous
+
+* release 0.1.9 ([8e49f9f](https://github.com/metachain-org/safesmith/commit/8e49f9f67cd77efb275e47fce7df2ecc00ff8ee0))
+
 ## [0.1.9](https://github.com/wavey0x/safesmith/compare/v0.1.0...v0.1.9) (2025-04-17)
 
 
